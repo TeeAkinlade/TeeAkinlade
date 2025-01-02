@@ -8,7 +8,6 @@
 ### 🚀 About Me
 - 🌟 I'm a frontend developer with a focus on building **responsive, user-friendly web applications**.  
 - 🎨 I love merging creativity with functionality through **modern UI/UX design principles**.  
-- 🛠️ I'm also passionate about sustainability, combining technology and fashion through my brand, **BIKOYE Fabrics & Fashion**.  
 
 ---
 
@@ -38,22 +37,6 @@ Here are some tools and technologies I work with:
 
 ---
 
-### 📌 Featured Projects
-
-1. **[BIKOYE Fabrics & Fashion Website](#)**  
-   🌍 A sleek, responsive website showcasing sustainable fashion collections.  
-   **Tech:** HTML, CSS, JavaScript, React, Chakra UI.
-
-2. **[Frontend Developer Portfolio](#)**  
-   💼 A modern portfolio that highlights my journey as a developer and my projects.  
-   **Tech:** Next.js, TailwindCSS, TypeScript.
-
-3. **[Interactive Web Application](#)**  
-   🎯 A dynamic web app featuring modern animations and interactivity.  
-   **Tech:** React, JavaScript, MUI, Framer Motion.
-
----
-
 ### 📬 Let's Connect
 - 💌 [Email Me](mailto:taiye.akinlade1@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/akinlade-taiye-733a8120a)  
@@ -62,7 +45,7 @@ Here are some tools and technologies I work with:
 ---
 
 ### 📊 GitHub Stats
-![Taiye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeeAkinlade&show_icons=true&theme=radical)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical)
 
 ---
