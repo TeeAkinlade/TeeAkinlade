@@ -14,39 +14,49 @@
 ### 🛠️ Tech Stack
 Here are some tools and technologies I work with:
 
-#### **Languages & Frameworks**
-(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-(https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-(https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-(https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+### 🛠️ Tech Stack
 
-#### **UI Libraries & Tools**
-(https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)  
-(https://img.shields.io/badge/Ant--Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)  
-(https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
-(https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-#### **Design & Collaboration**
-(https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
-#### **Version Control & IDEs**
-(https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-(https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80" />
+</div>
+ 
 
 ---
-
 ### 📬 Let's Connect
-- 💌 (mailto:taiye.akinlade1@gmail.com)  
-- 💼 (https://www.linkedin.com/in/akinlade-taiye-733a8120a)  
-- 🌐 (http://teeakins.vercel.app/)
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <a href="mailto:taiye.akinlade1@gmail.com" style="text-decoration: none; font-size: 18px; color: #E34F26;">
+    💌 taiye.akinlade1@gmail.com
+  </a>
+  <a href="https://www.linkedin.com/in/akinlade-taiye-733a8120a" target="_blank" style="text-decoration: none; font-size: 18px; color: #0072b1;">
+    💼 LinkedIn
+  </a>
+  <a href="http://teeakins.vercel.app/" target="_blank" style="text-decoration: none; font-size: 18px; color: #1e90ff;">
+    🌐 Portfolio
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical)
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j" alt="GitHub Contributions" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical" alt="Top Languages" width="80%" />
+</div>
+
 
 ---
 
