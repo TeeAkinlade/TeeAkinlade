@@ -33,29 +33,17 @@ Here are some tools and technologies I work with:
 </div>
  
 
----
 ### 📬 Let's Connect
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="mailto:taiye.akinlade1@gmail.com" style="text-decoration: none; font-size: 18px; color: #E34F26;">
-    💌 taiye.akinlade1@gmail.com
-  </a>
-  <a href="https://www.linkedin.com/in/akinlade-taiye-733a8120a" target="_blank" style="text-decoration: none; font-size: 18px; color: #0072b1;">
-    💼 LinkedIn
-  </a>
-  <a href="http://teeakins.vercel.app/" target="_blank" style="text-decoration: none; font-size: 18px; color: #1e90ff;">
-    🌐 Portfolio
-  </a>
-</div>
+- 💌 [E-mail](mailto:taiye.akinlade1@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/akinlade-taiye-733a8120a)  
+- 🌐 [Portfolio](http://teeakins.vercel.app/)
 
 ---
 
 ### 📊 GitHub Stats
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical)
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j" alt="GitHub Contributions" width="80%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical" alt="Top Languages" width="80%" />
-</div>
 
 
 ---
