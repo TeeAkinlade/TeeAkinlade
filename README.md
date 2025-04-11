@@ -55,7 +55,6 @@ Feel free to reach out if you're interested in collaborating or if you have any 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TeeAkinlade&theme=radical&date_format=[Y.]n.j)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeAkinlade&layout=compact&theme=radical)
 
 
